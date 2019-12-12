@@ -1,6 +1,6 @@
 ## Welcome julio
 
-You can use the [editor on GitHub](https://github.com/JulioCCardenas/fase-3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+La seguridad informatica es un conjunto de herramientas,  procedimientos y estrategias que tienen como objetivo garantizar la integridad, disponibilidad y confidencialidad  de la informacion de una entidad rn un sistema.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
