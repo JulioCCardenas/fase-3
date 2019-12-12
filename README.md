@@ -34,5 +34,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-120px-Unad_(Colombia)_logo.svg.png
-![1200px-Unad_(Colombia)_logo svg](https://user-images.githubusercontent.com/55006732/70678877-60396100-1c61-11ea-93ac-7d9aee3d5a6.png)
